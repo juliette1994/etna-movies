@@ -1,2 +1,2 @@
-# movies
+# Movies
 PHP Project
