@@ -1,2 +1,2 @@
-# Movies
+# Etna Movies
 PHP Project
